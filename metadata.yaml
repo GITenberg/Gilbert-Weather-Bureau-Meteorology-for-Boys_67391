@@ -1,0 +1,35 @@
+_repo: Gilbert-Weather-Bureau-Meteorology-for-Boys_67391
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilbert, A. C. (Alfred Carlton)
+    aliases:
+    - Gilbert, Alfred C.
+    - Gilbert, Alfred Carlton
+    birthdate: 1884
+    deathdate: 1961
+    gutenberg_agent_id: '54246'
+    url: http://www.gutenberg.org/2009/agents/54246
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Carlton_Gilbert
+description: ''
+gutenberg_issued: '2022-02-13'
+identifiers:
+  gutenberg: '67391'
+language: en
+pgterms:marc905: 20200913113937gilbert
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Richard Tonsing, Juliet Sutherland and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :The A. C. Gilbert Company,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Meteorology -- Juvenile literature'
+- !lcsh 'Meteorology -- Problems, exercises, etc.'
+- !lcsh 'Weather -- Juvenile literature'
+- !lcc 'QC'
+- GITenberg
+title: Gilbert Weather Bureau (Meteorology) for Boys
+url: http://www.gutenberg.org/ebooks/67391
